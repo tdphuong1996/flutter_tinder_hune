@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>299131159947-76krq6leqto972riulo8srekhs2m3fme.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.299131159947-76krq6leqto972riulo8srekhs2m3fme</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>299131159947-40ga6k9k3394ob43nhtnlihinok80j2p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4qMfBd9auyRq7fqv3L-_vsWmhJqzybKM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>299131159947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fredrikbogg.tinderCloneFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>chat-d39c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-d39c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:299131159947:ios:39a6f752011ffa35d55b8e</string>
+	<key>DATABASE_URL</key>
+	<string>https://chat-d39c5.firebaseio.com</string>
+</dict>
+</plist>
+
+

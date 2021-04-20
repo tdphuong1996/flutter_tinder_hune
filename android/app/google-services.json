@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "299131159947",
+    "firebase_url": "https://chat-d39c5.firebaseio.com",
+    "project_id": "chat-d39c5",
+    "storage_bucket": "chat-d39c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299131159947:android:8f61ee2d0665bcaad55b8e",
+        "android_client_info": {
+          "package_name": "com.example.tinder_vip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299131159947-lqm84skr45vhl12k7iql4snp433ef0et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tinder_vip",
+            "certificate_hash": "a13bf3e054ed796f951339e4320bac58e011c886"
+          }
+        },
+        {
+          "client_id": "299131159947-p8qe7h4kq15n56egltjjemsl08vtv9fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeV1NRzil45pFwr9mOY5pDr61jeEC8ek0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299131159947-p8qe7h4kq15n56egltjjemsl08vtv9fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299131159947:android:19ae8bc88699e5f5d55b8e",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.tinder_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299131159947-6hh8jft1v1r1m1md38t4hrdkrkmaphcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fredrikbogg.tinder_app_flutter",
+            "certificate_hash": "a13bf3e054ed796f951339e4320bac58e011c886"
+          }
+        },
+        {
+          "client_id": "299131159947-p8qe7h4kq15n56egltjjemsl08vtv9fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeV1NRzil45pFwr9mOY5pDr61jeEC8ek0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299131159947-p8qe7h4kq15n56egltjjemsl08vtv9fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
